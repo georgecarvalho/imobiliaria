@@ -1,6 +1,6 @@
 # Sistema de biblioteca
 
-Sistema de imobiliária desenvolvido em Java, para exemplificar o uso de testes unitários em JUnit 5 e Mockito.
+Sistema de imobiliária desenvolvido em Java, para exemplificar o uso de testes com JUnit 5 e Mockito.
 Seu objetivo é simular o CRUD de Clientes, Imóveis, Alugueis e Locações, além de outras regras de negócio, como calcular valor de multas por atraso no aluguel.
 Foram realizados o testes de integração de cada repositório, além de regras da cada de serviço.
 Projeto desenvolvido durante a disciplina de Engenharia de Software II, do curso de Sistemas de Informação - IFMA, em 2021.
