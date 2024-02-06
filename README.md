@@ -27,7 +27,7 @@ Deve continuar enviando Emails após lancamento de Exceção
 
 * [Maven](https://maven.apache.org/) - Gerente de Dependências
 * [Lombok Project](https://projectlombok.org/) - Biblioteca de Anotações para Getters, Setters, Builders, etc
-* [Mockito](https://hibernate.org/) - Framework para ORM
+* [Hibernate](https://hibernate.org/) - Framework para ORM
 * [JUnit 5](https://junit.org/junit5/) - Framework de Testes Automatizados
 * [Mockito](https://site.mockito.org/) - Framework de Testes Automatizados
 
