@@ -1,11 +1,11 @@
-package service;
+package br.edu.ifma.imobiliaria.service;
 
 import java.math.BigDecimal;
 import java.time.temporal.ChronoUnit;
 import java.util.List;
 
-import model.Aluguel;
-import repository.AluguelRepository;
+import br.edu.ifma.imobiliaria.model.Aluguel;
+import br.edu.ifma.imobiliaria.repository.AluguelRepository;
 
 public class AluguelService {
 	

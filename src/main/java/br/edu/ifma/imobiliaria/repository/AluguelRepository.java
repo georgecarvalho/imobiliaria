@@ -1,9 +1,9 @@
-package repository;
+package br.edu.ifma.imobiliaria.repository;
 
 import java.time.LocalDate;
 import java.util.List;
 
-import model.Aluguel;
+import br.edu.ifma.imobiliaria.model.Aluguel;
 
 public interface AluguelRepository  {
 	

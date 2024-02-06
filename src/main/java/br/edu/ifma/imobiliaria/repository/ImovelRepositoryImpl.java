@@ -1,10 +1,10 @@
-package repository;
+package br.edu.ifma.imobiliaria.repository;
 
 import java.util.List;
 
 import javax.persistence.EntityManager;
 
-import model.Imovel;
+import br.edu.ifma.imobiliaria.model.Imovel;
 
 public class ImovelRepositoryImpl implements ImovelRepository {
 	private EntityManager entityManager;

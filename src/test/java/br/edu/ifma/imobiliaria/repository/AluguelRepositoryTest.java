@@ -1,4 +1,4 @@
-package repository;
+package br.edu.ifma.imobiliaria.repository;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
@@ -19,10 +19,10 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import model.Aluguel;
-import model.Cliente;
-import model.Imovel;
-import model.Locacao;
+import br.edu.ifma.imobiliaria.model.Aluguel;
+import br.edu.ifma.imobiliaria.model.Cliente;
+import br.edu.ifma.imobiliaria.model.Imovel;
+import br.edu.ifma.imobiliaria.model.Locacao;
 
 public class AluguelRepositoryTest {
 	private Aluguel aluguel1 = Aluguel.builder()

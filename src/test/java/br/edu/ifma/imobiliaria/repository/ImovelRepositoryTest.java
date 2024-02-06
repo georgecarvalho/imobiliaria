@@ -1,4 +1,4 @@
-package repository;
+package br.edu.ifma.imobiliaria.repository;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
@@ -15,7 +15,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import model.Imovel;
+import br.edu.ifma.imobiliaria.model.Imovel;
 
 public class ImovelRepositoryTest {
 	private Imovel imovel1 = Imovel.builder()

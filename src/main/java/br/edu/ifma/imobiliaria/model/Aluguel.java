@@ -1,4 +1,4 @@
-package model;
+package br.edu.ifma.imobiliaria.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

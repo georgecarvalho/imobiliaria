@@ -1,10 +1,10 @@
-package repository;
+package br.edu.ifma.imobiliaria.repository;
 
 import java.util.List;
 
 import javax.persistence.EntityManager;
 
-import model.Cliente;
+import br.edu.ifma.imobiliaria.model.Cliente;
 
 public class ClienteRepositoryImpl implements ClienteRepository {
 	private EntityManager entityManager;

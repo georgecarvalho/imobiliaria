@@ -1,11 +1,11 @@
-package repository;
+package br.edu.ifma.imobiliaria.repository;
 
 import java.math.BigDecimal;
 import java.util.List;
 
 import javax.persistence.EntityManager;
 
-import model.Locacao;
+import br.edu.ifma.imobiliaria.model.Locacao;
 
 public class LocacaoRepositoryImpl implements LocacaoRepository{
 	private EntityManager entityManager;

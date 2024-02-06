@@ -1,8 +1,8 @@
-package repository;
+package br.edu.ifma.imobiliaria.repository;
 
 import java.util.List;
 
-import model.Cliente;
+import br.edu.ifma.imobiliaria.model.Cliente;
 
 public interface ClienteRepository  {
 	

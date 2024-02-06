@@ -1,4 +1,4 @@
-package service;
+package br.edu.ifma.imobiliaria.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
@@ -21,11 +21,11 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
 
-import model.Aluguel;
-import model.Cliente;
-import model.Imovel;
-import model.Locacao;
-import repository.AluguelRepository;
+import br.edu.ifma.imobiliaria.model.Aluguel;
+import br.edu.ifma.imobiliaria.model.Cliente;
+import br.edu.ifma.imobiliaria.model.Imovel;
+import br.edu.ifma.imobiliaria.model.Locacao;
+import br.edu.ifma.imobiliaria.repository.AluguelRepository;
 
 @ExtendWith(MockitoExtension.class)
 public class AluguelServiceTest {

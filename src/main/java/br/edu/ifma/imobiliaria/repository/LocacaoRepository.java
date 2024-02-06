@@ -1,9 +1,9 @@
-package repository;
+package br.edu.ifma.imobiliaria.repository;
 
 import java.math.BigDecimal;
 import java.util.List;
 
-import model.Locacao;
+import br.edu.ifma.imobiliaria.model.Locacao;
 
 public interface LocacaoRepository {
 	

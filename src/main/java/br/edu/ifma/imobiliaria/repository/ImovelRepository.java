@@ -1,8 +1,8 @@
-package repository;
+package br.edu.ifma.imobiliaria.repository;
 
 import java.util.List;
 
-import model.Imovel;
+import br.edu.ifma.imobiliaria.model.Imovel;
 
 public interface ImovelRepository {
 
